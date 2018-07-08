@@ -1,0 +1,19 @@
+{
+    "name": "francoischaumont/dependency-injector",
+    "description": "Easily use dependency injectors",
+    "authors": [
+        {
+            "name": "Francois Chaumont",
+            "email": "funcois@outlook.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "FC\\Containers\\": "src/"
+        }
+    }
+}
+
