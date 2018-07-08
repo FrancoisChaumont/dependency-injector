@@ -1,4 +1,4 @@
-# LOG - write logs to file
+# DEPENDENCY INJECTION - easy implementation of dependency injection
 Simple PHP package to easily use dependency injectors.
 
 ## Getting started
