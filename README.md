@@ -1,4 +1,11 @@
-# DEPENDENCY INJECTION - easy implementation of dependency injection
+# DEPENDENCY INJECTOR - easy implementation of dependency injection
+
+![GitHub release](https://img.shields.io/github/release/FrancoisChaumont/dependency-injector.svg)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FrancoisChaumont/dependency-injector/issues)
+[![GitHub issues](https://img.shields.io/github/issues/FrancoisChaumont/dependency-injector.svg)](https://github.com/FrancoisChaumont/dependency-injector/issues)
+[![GitHub stars](https://img.shields.io/github/stars/FrancoisChaumont/dependency-injector.svg)](https://github.com/FrancoisChaumont/dependency-injector/stargazers)
+![Github All Releases](https://img.shields.io/github/downloads/FrancoisChaumont/dependency-injector/total.svg)
+
 Simple PHP package to easily use dependency injectors.
 
 ## Getting started
