@@ -38,7 +38,7 @@ Under the folder named *tests* you will find a test script ready to use and to e
 ## Authors
 * **Francois Chaumont** - *Initial work* - [FrancoisChaumont](https://github.com/FrancoisChaumont)
 
-See also the list of [contributors](https://github.com/FrancoisChaumont/log/graphs/contributors) who particpated in this project.
+See also the list of [contributors](https://github.com/FrancoisChaumont/dependency-injector/graphs/contributors) who particpated in this project.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
