@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "FC\\Containers\\": "src/"
+            "FC\\DependencyInjector\\": "src/"
         }
     }
 }
