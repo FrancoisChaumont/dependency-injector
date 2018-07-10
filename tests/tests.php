@@ -19,7 +19,7 @@ $json = '{
 $object = json_decode($json);
 
 // instantiate a new object
-$di = new \FC\Containers\DependencyInjector();
+$di = new \FC\DependencyInjector\DependencyInjector();
 
 // add all elements to the container (can use either 'set' or 'add')
 $di->set('int', $int);
