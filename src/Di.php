@@ -5,7 +5,7 @@ namespace FC\DependencyInjector;
 /**
  * Dependency Injector class consisting in an array to contain whatever is needed further down the line
  */
-final class DependencyInjector
+final class Di
 {
     private $dependencies = [];
 
