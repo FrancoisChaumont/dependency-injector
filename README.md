@@ -1,4 +1,11 @@
 # DEPENDENCY INJECTOR - easy implementation of dependency injection
+
+![GitHub release](https://img.shields.io/github/release/FrancoisChaumont/dependency-injector.svg)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FrancoisChaumont/dependency-injector/issues)
+[![GitHub issues](https://img.shields.io/github/issues/FrancoisChaumont/dependency-injector.svg)](https://github.com/FrancoisChaumont/dependency-injector/issues)
+[![GitHub stars](https://img.shields.io/github/stars/FrancoisChaumont/dependency-injector.svg)](https://github.com/FrancoisChaumont/dependency-injector/stargazers)
+![Github All Releases](https://img.shields.io/github/downloads/FrancoisChaumont/dependency-injector/total.svg)
+
 Simple PHP package to easily use dependency injectors.
 
 ## Getting started
@@ -31,7 +38,7 @@ Under the folder named *tests* you will find a test script ready to use and to e
 ## Authors
 * **Francois Chaumont** - *Initial work* - [FrancoisChaumont](https://github.com/FrancoisChaumont)
 
-See also the list of [contributors](https://github.com/FrancoisChaumont/log/graphs/contributors) who particpated in this project.
+See also the list of [contributors](https://github.com/FrancoisChaumont/dependency-injector/graphs/contributors) who particpated in this project.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
